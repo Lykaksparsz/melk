@@ -2,8 +2,5 @@
 The open source Programming language
 
 Do in command prompt
-```
-cd C:\melk
-melk(.py) hello-world.melk
-```
+!(Melk's Command Prompt)[http://catn.tk/f/cmd_2016-08-22_10-20-19.png]
 > what some commands.
