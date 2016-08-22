@@ -1,4 +1,0 @@
-- [x] Print
-- [x] Numbers
-- [x] Expressions
-- [ ] Variable
