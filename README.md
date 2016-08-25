@@ -1,4 +1,6 @@
 # melk
+![Logo](http://i.imgur.com/MkgRfjX.png)
+
 The open source Programming language
 
 Do in command prompt!
